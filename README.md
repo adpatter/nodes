@@ -43,7 +43,7 @@ A `Node` is a component of a graph-like data transformation pipeline. Each `Node
 
 ### _A graph API pattern logger implementation_ <sup><sup>\</example\></sup></sup>
 
-Please see the [_Streams_ Logger](https://github.com/faranalytics/streams-logger) implementation.
+Please see the [_Streams_ Logger](https://github.com/adpatter/streams-logger) implementation.
 
 ## API
 
@@ -188,7 +188,7 @@ Excerpted from [Semantic Versioning 2.0.0](https://semver.org/):
 #### Clone the repository.
 
 ```bash
-git clone https://github.com/faranalytics/nodes.git
+git clone https://github.com/adpatter/nodes.git
 ```
 
 #### Change directory into the root of the repository.
@@ -211,6 +211,6 @@ npm test
 
 ## Support
 
-If you have a feature request or run into any issues, feel free to submit an [issue](https://github.com/faranalytics/nodes/issues) or start a [discussion](https://github.com/faranalytics/nodes/discussions). You’re also welcome to reach out directly to one of the authors.
+If you have a feature request or run into any issues, feel free to submit an [issue](https://github.com/adpatter/nodes/issues) or start a [discussion](https://github.com/adpatter/nodes/discussions). You’re also welcome to reach out directly to one of the authors.
 
 - [Adam Patterson](https://github.com/adamjpatterson)
