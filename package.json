@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faranalytics/nodes.git"
+    "url": "git+https://github.com/adpatter/nodes.git"
   },
   "author": "FAR",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/faranalytics/nodes/issues"
+    "url": "https://github.com/adpatter/nodes/issues"
   },
-  "homepage": "https://github.com/faranalytics/nodes#readme",
+  "homepage": "https://github.com/adpatter/nodes#readme",
   "engines": {
     "npm": ">=10.8.2",
     "node": ">=18.20.8"
