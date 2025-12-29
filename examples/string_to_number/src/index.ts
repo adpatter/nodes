@@ -1,5 +1,5 @@
 import * as stream from 'node:stream';
-import { Config, Node } from '@farar/nodes';
+import { Config, Node } from '@far-analytics/nodes';
 
 export class StringToNumber extends Node<string, number> {
 
