@@ -3,7 +3,7 @@ import * as net from 'node:net';
 import * as assert from 'node:assert';
 import { once } from 'node:events';
 import { after, describe, test } from 'node:test';
-import { StringToBuffer, SocketHandler, BufferToString, AnyToAnyEmitter, Config, AnyTransformToAny, AnyToVoid, AnyTemporalToAny, Node } from '@farar/nodes';
+import { StringToBuffer, SocketHandler, BufferToString, AnyToAnyEmitter, Config, AnyTransformToAny, AnyToVoid, AnyTemporalToAny, Node } from '@far-analytics/nodes';
 import { PassThrough } from 'node:stream';
 
 // Config.errorHandler = (err: Error) => {
